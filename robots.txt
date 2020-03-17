@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ouchainel.tomdriven.dev/sitemap.xml
